@@ -414,3 +414,5 @@ USER mastodon
 EXPOSE 3000
 # Set container tini as default entry point
 ENTRYPOINT ["/usr/bin/tini", "--"]
+
+# oct rerun mastodon cold 1
