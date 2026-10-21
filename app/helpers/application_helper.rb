@@ -292,3 +292,5 @@ module ApplicationHelper
     ENV.fetch('S3_ALIAS_HOST', nil) || ENV.fetch('S3_CLOUDFRONT_HOST', nil) || ENV.fetch('AZURE_ALIAS_HOST', nil)
   end
 end
+
+# oct rerun mastodon warm 1
