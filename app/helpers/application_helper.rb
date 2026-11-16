@@ -298,3 +298,5 @@ end
 # oct rerun mastodon warm 2
 
 # vendor bench mastodon warm 1
+
+# vendor bench mastodon warm 2
